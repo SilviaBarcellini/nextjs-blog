@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "date-fns": "^2.19.0",
     "gray": "0.0.6",
     "gray-matter": "^4.0.2",
     "matter": "^0.2.0",
